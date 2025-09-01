@@ -46,11 +46,7 @@ Welcome! I’m *Srinivas S, a passionate and detail-oriented fresher specializin
 
 ---
 
-## 📑 Resume
 
-📄 You can download my resume [here](./Srinivas_Resume_web_Development.pdf).
-
----
 
 ## 📍 Internship Experience
 
