@@ -7,7 +7,7 @@ Welcome! I’m *Srinivas S, a passionate and detail-oriented fresher specializin
 ## 👨‍💻 About Me
 
 - 🎓 Final-year B.Tech (Information Technology), A.V.C. College of Engineering, Mayiladuthurai
-- 💡 Strong interest in *QA, **Frontend Development, and **Business Analysis*
+- 💡 Strong interest in *QA, **Frontend Development, and **Software Testing*
 - 🔍 Eager to join a forward-thinking organization where I can learn, contribute, and grow
 - 🌍 Based in *Chennai, Tamil Nadu*
 
