@@ -69,7 +69,7 @@ Welcome! I’m Srinivas S, a passionate and detail-oriented fresher specializing
 - 📧 Email: srinivass2786@gmail.com  
 - 📞 Phone: +91 9159643075  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/srinivas-s-130b2329a)  
-- 🖥️ GitHub: [@srinivas-s-130b2329a](https://github.com/Srinivass-s/Srinivass-s.git)
+- 🖥️  [GitHub](https://github.com/Srinivass-s/Srinivass-s.git)
 
 ---
 
